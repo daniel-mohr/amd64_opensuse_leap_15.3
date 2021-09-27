@@ -53,6 +53,7 @@ projects:
 
   * [check_my_github_actions](https://github.com/daniel-mohr/check_my_github_actions)
   * [pydabu -- Python Data Bubble](https://github.com/dlr-pa/pydabu)
+  * [pfu -- Python File Utilities](https://github.com/dlr-pa/pfu)
 
 
 ## copyright + license
